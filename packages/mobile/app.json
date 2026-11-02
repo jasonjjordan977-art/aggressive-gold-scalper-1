@@ -13,7 +13,7 @@
       "applicationId": "aggress-fzvpmri",
       "runableAuthIssuer": "https://api.runable.com/api/auth",
       "eas": {
-        "projectId": "YOUR-ACTUAL-EXPO-PROJECT-UUID"
+        "projectId": "00de92b4-78d4-4445-9b40-a8ee90ed358d"
       }
     },
     "ios": {
