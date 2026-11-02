@@ -9,13 +9,13 @@
       }
     },
     "extra": {
-  "apiUrl": "https://aggress-fzvpmri-preview-4200.runable.site/",
-  "applicationId": "aggress-fzvpmri",
-  "runableAuthIssuer": "https://api.runable.com/api/auth",
-  "eas": {
-    "projectId": "YOUR-ACTUAL-EXPO-PROJECT-UUID"
-  }
-}
+      "apiUrl": "https://aggress-fzvpmri-preview-4200.runable.site/",
+      "applicationId": "aggress-fzvpmri",
+      "runableAuthIssuer": "https://api.runable.com/api/auth",
+      "eas": {
+        "projectId": "YOUR-ACTUAL-EXPO-PROJECT-UUID"
+      }
+    },
     "ios": {
       "bundleIdentifier": "com.goldscalper-g8k2.runable",
       "supportsTablet": true
