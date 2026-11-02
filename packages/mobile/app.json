@@ -12,7 +12,7 @@
       "apiUrl": "https://aggress-fzvpmri-preview-4200.runable.site/",
       "applicationId": "aggress-fzvpmri",
       "runableAuthIssuer": "https://api.runable.com/api/auth"
-    },
+    },"eas":{"projectId": "00000000-0000-0000-0000-0000000000"},
     "ios": {
       "bundleIdentifier": "com.goldscalper-g8k2.runable",
       "supportsTablet": true
