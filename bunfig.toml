@@ -1,0 +1,3 @@
+[install]
+# Keep a single React/native-module installation across the Expo workspace.
+linker = "hoisted"

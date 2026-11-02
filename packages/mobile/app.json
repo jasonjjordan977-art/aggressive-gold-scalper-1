@@ -1,0 +1,52 @@
+{
+  "expo": {
+    "icon": "./assets/icon.png",
+    "android": {
+      "package": "com.goldscalper_g8k2.runable",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#090C0D"
+      }
+    },
+    "extra": {
+      "apiUrl": "https://aggress-fzvpmri-preview-4200.runable.site/",
+      "applicationId": "aggress-fzvpmri",
+      "runableAuthIssuer": "https://api.runable.com/api/auth"
+    },
+    "ios": {
+      "bundleIdentifier": "com.goldscalper-g8k2.runable",
+      "supportsTablet": true
+    },
+    "name": "AGGRESSIVE GOLD SCALPER",
+    "slug": "aggressive-gold-scalper",
+    "version": "1.0.0",
+    "scheme": "runable-aggress-fzvpmri",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "bundler": "metro",
+      "output": "single"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-secure-store",
+      "expo-font",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/splash-icon.png",
+          "imageWidth": 180,
+          "resizeMode": "contain",
+          "backgroundColor": "#090C0D"
+        }
+      ],
+      [
+        "expo-status-bar",
+        {
+          "style": "light"
+        }
+      ]
+    ]
+  }
+}
