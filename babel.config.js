@@ -1,0 +1,10 @@
+module.exports = function (api) {
+  api.cache(true);
+
+  return {
+    presets: ['babel-preset-expo'],
+    // Hermes rejects async arrows with destructured rest parameters in oRPC.
+    // Expo's preset already supplies this Babel plugin as a dependency.
+    plugins: ['@babel/plugin-transform-parameters'],
+  };
+};
