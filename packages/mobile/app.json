@@ -9,7 +9,7 @@
       }
     },
     "extra": {
-      "apiUrl": "https://aggress-fzvpmri-preview-4200.runable.site/",
+      "apiUrl": "https://aggress-fzvpmri.runable.site/",
       "applicationId": "aggress-fzvpmri",
       "runableAuthIssuer": "https://api.runable.com/api/auth",
       "eas": {
